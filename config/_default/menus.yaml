@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 86b89111-2d4f-73a9-d987-11245987bcd3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 69885f30-bae5-c693-16fc-5492e4404278
+  name: Lecture Notes and Video
+  pageRef: /video_galleries/lecture-notes-and-video
+  weight: 20
+- identifier: 1a727310-1a37-c171-a13d-06e2fa6799d5
+  name: Recitations
+  pageRef: /video_galleries/recitations/
+  weight: 30
+- identifier: ede72693-4c5d-a06f-7f06-1d6a640fdfe3
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 40
+- identifier: b639672a-d9ad-956d-f1d8-30e6183298ae
+  name: Projects
+  pageRef: /video_galleries/projects
+  weight: 50
+- identifier: b44ef382-825f-b86e-00f9-9e1848a2e6a4
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
